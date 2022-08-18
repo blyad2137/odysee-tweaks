@@ -1,10 +1,13 @@
 /* ==UserStyle==
 @name           Odysee - Tweaks
-@namespace      github.com/openstyles/stylus
+@namespace      github.com/blyad2137/odysee-tweaks
 @version        1.0.0
 @description    `Nah, He tweakin'`
 @author         blyad (https://github.com/blyad2137)
 @license		CC BY-NC-SA 4.0
+@homepageURL	https://github.com/blyad2137/odysee-tweaks
+@supportURL		https://github.com/blyad2137/odysee-tweaks/issues
+@updateURL      https://userstyles.world/api/style/6176.user.css
 @preprocessor	uso
 @advanced dropdown rating "Rating System:" {
 	1. "Like/Dislike" <<<EOT

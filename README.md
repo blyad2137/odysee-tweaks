@@ -19,6 +19,6 @@
    </div>
    <div class="user.css">
      <h3>👉 Then 
-        <a href="https://github.com/blyad2137/facebook-dark-mode-expanded/raw/main/dark-mode-expanded.user.css" style="font-size: 2rem;"> install the user.css</a></h3>
+        <a href="https://github.com/blyad2137/odysee-tweaks/raw/main/odysee-tweaks.user.css" style="font-size: 2rem;"> install the user.css</a></h3>
    </div>
 </div>
